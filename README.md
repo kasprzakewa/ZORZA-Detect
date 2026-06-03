@@ -1,8 +1,19 @@
 # ZORZA-Detect: Zaawansowane Optyczne Rozpoznawanie Zagrożeń Aerokosmicznych
 
-Repozytorium zawiera zoptymalizowane skrypty do trenowania i walidacji modeli z rodziny YOLO (YOLOv8n / YOLO26n) w zadaniu precyzyjnej detekcji odłamków orbitalnych na niskiej orbicie okołoziemskiej (LEO). 
-
-Kluczowym osiągnięciem projektu jest uodpornienie klasyfikatora na efekt *Earthshine* (odbicia światła od atmosfery i powierzchni planety) poprzez zastosowanie techniki Hard Negative Mining z użyciem tekstur Ziemi.
+<table border="0" cellpadding="10" cellspacing="0" align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td valign="middle" style="border: none; padding-right: 20px;">
+      <img width="100" height="100" alt="ZORZA-Detect logo left" src="https://github.com/user-attachments/assets/7d118478-73a8-4626-91b6-984f465a00ee" />
+    </td>
+    <td valign="middle" style="border: none; text-align: justify;">
+      <p>Repozytorium zawiera zoptymalizowane skrypty do trenowania i walidacji modeli z rodziny YOLO (YOLOv8n / YOLO26n) w zadaniu precyzyjnej detekcji odłamków orbitalnych na niskiej orbicie okołoziemskiej (LEO).</p>
+      <p>Kluczowym osiągnięciem projektu jest uodpornienie klasyfikatora na efekt <em>Earthshine</em> (odbicia światła od atmosfery i powierzchni planety) poprzez zastosowanie techniki Hard Negative Mining z użyciem tekstur Ziemi.</p>
+    </td>
+    <td valign="middle" style="border: none; padding-left: 20px;">
+      <img width="100" height="100" alt="ZORZA-Detect logo right" src="https://github.com/user-attachments/assets/7d118478-73a8-4626-91b6-984f465a00ee" />
+    </td>
+  </tr>
+</table>
 
 ---
 
